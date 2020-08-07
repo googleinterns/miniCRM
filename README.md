@@ -1,6 +1,7 @@
 # miniCRM 
 [![Build status](https://circleci.com/gh/MiniCRM-Group/MiniCRM.svg?style=svg)](https://circleci.com/gh/MiniCRM-Group/MiniCRM)
 
+This repository is a clone of the original miniCRM Repository found at [https://github.com/MiniCRM-Group/MiniCRM](https://github.com/MiniCRM-Group/MiniCRM)\
 This is the repository for [miniCRM](http://form-ads-leads.appspot.com/), a simple, lightweight CRM designed for SMBs using Google Form Ads!
 
 ![miniCRM Landing Page](screenshots/landingpagescreenshot.png?raw=true "miniCRM Landing Page")
